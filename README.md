@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zinzloun
+- 👋 I’m @zinzloun, @salut
 - 👀 I’m interested in humans
 - 🌱 Forever (and probably after) a noob
 
