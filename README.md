@@ -1,5 +1,5 @@
 - 👋 I’m @zinzloun, @salut
-- 👀 I’m interested in humans
+- 👀 I’m interested in life
 - 🌱 Forever (and probably after) a noob
 
 <!---
