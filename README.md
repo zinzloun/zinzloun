@@ -1,5 +1,5 @@
 - 👋 I’m a zinzloun, @salut
-- 👀 I’m interested in reaal life
+- 👀 A forever И00Ь 
 - 🌱 I'm off from social media, you wont miss me
 
 <!---
