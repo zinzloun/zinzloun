@@ -1,6 +1,5 @@
-- 👋 I’m a zinzloun, @salut
-- 👀 A forever И00Ь 
-- 🌱 I'm off from social media, you wont miss me
+👋 I’m a zinzloun, @salut
+
 
 <!---
 zinzloun/zinzloun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
