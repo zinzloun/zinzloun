@@ -3,7 +3,7 @@
 
 [![Stand With Palestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/banner-no-action.svg)](https://thebsd.github.io/StandWithPalestine)
 
-E il capitalismo autorizzava le bugie a fin di bene, quelle cioè che servivano a vendere.
+<i>E il capitalismo autorizzava le bugie a fin di bene, quelle cioè che servivano a vendere</i>
 
 M. Cristan
 
