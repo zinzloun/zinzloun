@@ -5,5 +5,5 @@
 [![Stand With Palestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/banner-no-action.svg)](https://thebsd.github.io/StandWithPalestine)
 
 ## Hello world
-🛡️ Every system seems secure—until it’s not
+🛡️ Every system seems secure — until it’s not
 
