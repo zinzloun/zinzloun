@@ -4,5 +4,7 @@
 
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
 
-🛡️ Every system seems secure — until it’s not
+🔑 [My PGP Public Key](./publickey.filobers@pm.me.asc)
+**Fingerprint:** `ee1c058ad473a65188510b5211ab84bb56a0a5f5`
+
 
