@@ -10,5 +10,5 @@
 🔑 [My PGP Public Key](./publickey.filobers@pm.me.asc)
 **Fingerprint:** `ee1c058ad473a65188510b5211ab84bb56a0a5f5`
 
-[Security feeds](./Infosec-Resources/fb-cyb.opml)
+[Security feeds]()
 
